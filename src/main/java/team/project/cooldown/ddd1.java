@@ -1,5 +1,5 @@
 package team.project.cooldown;
 
-public class ddd {
+public class ddd1 {
     //minha test
 }
