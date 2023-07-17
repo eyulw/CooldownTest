@@ -1,5 +1,5 @@
 package team.project.cooldown;
 
-public class aaa {
-    //t
+public class test {
+    //test
 }
